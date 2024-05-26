@@ -60,7 +60,7 @@ async function getNumDraws(year) {
 
 Passed test cases:
 
-![question 1](https://github.com/taylorhelene/Hackerrank-certify-solutions-with-explanations/blob/main/Api%20Intermediate/images/day1/Api%20intermediate2.PNG?raw=true)
+![question 1](https://github.com/taylorhelene/Hackerrank-certify-solutions-with-explanations/blob/main/Api%20Intermediate/images/day1/api2submit.PNG?raw=true)
 
 We are supposed to get winner total goals:
 
