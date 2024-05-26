@@ -58,6 +58,8 @@ async function getNumDraws(year) {
 
 ## Challenge 2:
 
+Passed test cases:
+
 We are supposed to get winner total goals:
 
 1. Fetch winner
