@@ -62,6 +62,8 @@ Passed test cases:
 
 ![question 2](https://github.com/taylorhelene/Hackerrank-certify-solutions-with-explanations/blob/main/Api%20Intermediate/images/day1/api2submit.PNG?raw=true)
 
+![test cases](https://github.com/taylorhelene/Hackerrank-certify-solutions-with-explanations/blob/main/Api%20Intermediate/images/day1/Api%20intermediate.PNG?raw=true)
+
 We are supposed to get winner total goals:
 
 1. Fetch winner
