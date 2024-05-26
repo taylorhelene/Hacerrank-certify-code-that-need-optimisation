@@ -2,7 +2,7 @@
 
 Passed test cases:
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![question 1](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 ![test cases](https://github.com/taylorhelene/Hackerrank-certify-solutions-with-explanations/blob/main/Api%20Intermediate/images/day1/Api%20intermediate.PNG?raw=true)
 
 We are supposed to get the number of draws:
